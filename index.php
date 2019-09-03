@@ -3,8 +3,8 @@ include "simple_html_dom.php";
 
 $formData = array(
     "act" => "login",
-    "username" => "17111066",
-    "password" => "13111998"
+    "username" => "nim",
+    "password" => "tanggal lahir"
 );
 
 $ch = curl_init();
